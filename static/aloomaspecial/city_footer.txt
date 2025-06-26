@@ -1,0 +1,47 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period is 7 days, but extensions are available upon request. We’ll work with your timeline.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What can I put in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most non-hazardous waste is accepted: construction debris, household junk, furniture, appliances (without refrigerants), and yard waste. We’ll give you a full list when you book.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit for a dumpster rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Not always. For residential driveways, a permit usually isn’t necessary. But if you plan to place the dumpster on a public street, we can help determine if a permit is required.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What sizes do you offer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer 10, 15, 20, and 30-yard roll-off dumpsters. If you're unsure which one you need, give us a call and we'll recommend the right size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I schedule a pickup?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Call us or use our website form. Just let us know when you’re done, and we’ll handle the rest.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
